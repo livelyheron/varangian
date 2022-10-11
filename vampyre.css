@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'vampyre';
+    src: url('cdn.jsdelivr.net/gh/livelyheron/varangian@main/VAMPG___.ttf.eot');
+    src: url('https://cdn.jsdelivr.net/gh/livelyheron/varangian@main/VAMPG___.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/livelyheron/varangian@main/VAMPG___.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/livelyheron/varangian@main/VAMPG___.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
